@@ -1,1 +1,1 @@
-Live URL - https://akshay-bisht-dev.github.io/invoice-page/
+Live URL - https://akshay-bisht-dev.github.io/cubex-blog/
